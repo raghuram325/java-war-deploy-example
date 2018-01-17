@@ -21,3 +21,4 @@ Getting Started
 7. Grab some coffee while your build finishes and your new application is deployed for you automatically.
 
 As always, feel free to reach out to [Datica's support team](https://datica.com/support/) if you run into any trouble.
+# java-war-deploy-example
